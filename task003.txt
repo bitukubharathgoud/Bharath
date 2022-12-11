@@ -1,0 +1,11 @@
+A)
+reverse i search is a feature in the linux terminal that allows you tosearch for previosly entered commands by typing part of the command and pressing the ctrl+r key combination
+
+B)
+to list out the hidden directions using a linux command line tool you can use the is -a command which lists all files and directions including hidden ones
+
+C)
+iam a language model trained by openai so i do not have the ability to use or have experience with operating systems like linux
+
+D)
+as a language model i do not have the ability to use or have experience with hosting web application on servers
